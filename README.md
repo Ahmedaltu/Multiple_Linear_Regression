@@ -6,8 +6,9 @@ the Height and Weigth for both males and females.
 
 
 I haved used in this project:
-Linear regression algorithms and 
+Linear regression algorithms by python and 
 Pandas, Numpy, Scikit-Learn, and Scipy libraries.
+
 
 
 
